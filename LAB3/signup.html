@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup</title>
+    <link rel = "stylesheet" type = "text/css" href = "main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1 id = "centerTitle">Welcome to INTERNET-PROGRAMMING SHOP</h1>
+    <span class = "nav" id = "topbutton"><a href = "login.html">로그인</a></span>
+    <span class = "nav" id = "topbuttonclick"><a href = "signup.html">회원가입</a></span>
+    <hr id = "up">
+    <div id = "middle"><form method = "post" action = "http://www.example.com">
+        <p>개인정보(필수)</p>
+        <p><label>이름<br>
+            <input name = "name" type = "text" size = "20" autocomplete = "on" autofocus>
+        </label></p>
+        <p><label>생년월일<br>
+            <input name = "date" type = "date" autofocus>
+        </label></p>
+        <p><label>아이디<br>
+            <input name = "id" type = "text" size = "20" autocomplete = "on" required>
+        </label></p>
+        <p><label>비밀번호<br>
+            <input name = "password" type = "password" size = "20" required>
+        </label></p>
+        <p><label>비밀번호 확인<br>
+            <input name = "passwordcheck" type = "password" size = "20" required>
+        </label></p>
+        <p><label>이메일<br>
+            <input name = "email" type = "email" autocomplete = "on" placeholder = "name@domain.com" required>
+        </label></p>
+        <p><label>전화번호<br>
+            <input name = "tel" type = "tel" placeholder = "(###) ####-####" pattern = "\(\d{3}\) +\d{4}-\d{4}" required>
+        </label></p>
+        <p id = "bottombutton"><input type = "submit" value = "제출">
+            <input type = "reset" value = "지우기"></p>
+    </form></div>
+</body>
+</html>
