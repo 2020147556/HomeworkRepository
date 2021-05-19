@@ -1,0 +1,100 @@
+{
+    "book": [
+        {
+            "topic": "HTML",
+            "name": "HTML5 Pocket Reference",
+            "price": "10.99",
+            "link": "./books/HTML5 Pocket Reference.jpg"
+        },
+        {
+            "topic": "HTML",
+            "name": "HTML5: Up and Running",
+            "price": "15.79",
+            "link": "./books/HTML5 Up and Running.jpg"
+        },
+        {
+            "topic": "HTML",
+            "name": "HTML5 Cookbook",
+            "price": "22.83",
+            "link": "./books/HTML5 Cookbook.jpg"
+        },
+        {
+            "topic": "HTML",
+            "name": "HTML&CSS: The Good Parts",
+            "price": "14.62",
+            "link": "./books/HTML&CSS The Good Parts.jpg"
+        },
+        {
+            "topic": "Javascript",
+            "name": "Javascript: The Definitive Guide",
+            "price": "30.00",
+            "link": "./books/Javascript The Definitive Guide.jpg"
+        },
+        {
+            "topic": "Javascript",
+            "name": "Javascript: The Good Parts",
+            "price": "18.93",
+            "link": "./books/Javascript The Good Parts.jpg"
+        },
+        {
+            "topic": "Javascript",
+            "name": "Functional Javascript",
+            "price": "10.99",
+            "link": "./books/Functional Javascript.jpg"
+        },
+        {
+            "topic": "Javascript",
+            "name": "Javascript Cookbook",
+            "price": "32.55",
+            "link": "./books/Javascript Cookbook.jpg"
+        },
+        {
+            "topic": "Python",
+            "name": "Programming Python",
+            "price": "47.23",
+            "link": "./books/Programming Python.jpg"
+        },
+        {
+            "topic": "Python",
+            "name": "Learning Python",
+            "price": "35.42",
+            "link": "./books/Learning Python.jpg"
+        },
+        {
+            "topic": "Python",
+            "name": "Python Cookbook",
+            "price": "27.73",
+            "link": "./books/Python Cookbook.jpg"
+        },
+        {
+            "topic": "Python",
+            "name": "Python in a Nutshell",
+            "price": "51.84",
+            "link": "./books/Python in a Nutshell.jpg"
+        },
+        {
+            "topic": "SQL",
+            "name": "SQL Pocket Guide",
+            "price": "10.55",
+            "link": "./books/SQL Pocket Guide.jpg"
+        },
+        {
+            "topic": "SQL",
+            "name": "SQL Cookbook",
+            "price": "28.59",
+            "link": "./books/SQL Cookbook.jpg"
+        },
+        {
+            "topic": "SQL",
+            "name": "Learning SQL",
+            "price": "47.99",
+            "link": "./books/Learning SQL.jpg"
+        },
+        {
+            "topic": "SQL",
+            "name": "SQL Tuning",
+            "price": "29.34",
+            "link": "./books/SQL Tuning.jpg"
+        }
+    ]
+}
